@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AndroidUI</string>
+    <string name="tv_cart_diliver_to">DILIVER TO</string>
+    <string name="cart_tv_add_address">Add address</string>
+    <string name="cart_tv_personal_details">PERSONAL DETAILS</string>
+    <string name="cart_et_name">Name</string>
+    <string name="cart_et_email">Email</string>
+    <string name="cart_et_phone_number">Phone Number</string>
+    <string name="cart_tv_cart">CART</string>
+    <string name="cart_tv_cart_total">0</string>
+    <string name="garden_salad">Garden Salad</string>
+    <string name="caesar_salad">Caesar Salad</string>
+    <string name="tuna_salad">Tuna Salad</string>
+    <string name="chicken_salad">Chicken Salad</string>
+    <string name="additional_information">ADDITIONAL INFORMATION</string>
+    <string name="checkout_view">CheckoutView</string>
+    <string name="product_subtotal">Product Subtotal</string>
+    <string name="price_8">8</string>
+    <string name="et_any_suggestions">Any Suggestions?</string>
+    <string name="tv_product_subtotal">Product Subtotal</string>
+    <string name="price_16">16</string>
+    <string name="price_15">15</string>
+</resources>
